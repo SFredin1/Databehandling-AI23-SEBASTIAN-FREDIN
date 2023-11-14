@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(221, 225, 210);
+}
+ 
+h1 {
+    color: #333;
+}
+ 
+h2 {
+    color: #0066cc;
+}
+ 
+#my-id {
+    font-family: wingdings;
+    color:darkslateblue
+}
+p {
+    line-height: 1.5;
+}
+ 
+ul {
+    list-style-type: square;
+}
+ 
+a {
+    color: #009900;
+    text-decoration: none;
+}
+ 
+a:hover {
+    text-decoration: underline;
+}
